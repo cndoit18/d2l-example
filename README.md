@@ -3,5 +3,5 @@
 # quick start
 
 ```bash
-uv run --with jupyter jupyter lab
+jupyter lab
 ```
