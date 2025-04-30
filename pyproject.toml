@@ -9,6 +9,7 @@ dependencies = [
     "torchvision==0.17.2",
     "numpy<2",
     "pandas>=2.2.3",
+    "d2l>=0.17.0",
 ]
 
 [tool.uv.sources]
